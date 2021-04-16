@@ -1,7 +1,7 @@
 import './App.css';
 import React from 'react';
 import {
-  BrowserRouter,
+  HashRouter,
   Route,
   Switch,
 } from 'react-router-dom';
@@ -12,7 +12,7 @@ import Details from "./views/Details";
 export default function App() {
   return (
       <BeerProvider>
-          <BrowserRouter>
+          <HashRouter>
               <Switch>
                   <Route exact path={'/'}>
                       <Home />
@@ -21,7 +21,7 @@ export default function App() {
                       <Details />
                   </Route>
               </Switch>
-          </BrowserRouter>
+          </HashRouter>
       </BeerProvider>
   )
 };
