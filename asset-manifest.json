@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/hold-my-beer/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/hold-my-beer/static/js/main.89757d57.chunk.js",
-    "main.js.map": "/hold-my-beer/static/js/main.89757d57.chunk.js.map",
+    "main.js": "/hold-my-beer/static/js/main.714f9cbf.chunk.js",
+    "main.js.map": "/hold-my-beer/static/js/main.714f9cbf.chunk.js.map",
     "runtime-main.js": "/hold-my-beer/static/js/runtime-main.6f946cfb.js",
     "runtime-main.js.map": "/hold-my-beer/static/js/runtime-main.6f946cfb.js.map",
-    "static/js/2.a6fe587a.chunk.js": "/hold-my-beer/static/js/2.a6fe587a.chunk.js",
-    "static/js/2.a6fe587a.chunk.js.map": "/hold-my-beer/static/js/2.a6fe587a.chunk.js.map",
+    "static/js/2.d45a724e.chunk.js": "/hold-my-beer/static/js/2.d45a724e.chunk.js",
+    "static/js/2.d45a724e.chunk.js.map": "/hold-my-beer/static/js/2.d45a724e.chunk.js.map",
     "static/js/3.4a8342b1.chunk.js": "/hold-my-beer/static/js/3.4a8342b1.chunk.js",
     "static/js/3.4a8342b1.chunk.js.map": "/hold-my-beer/static/js/3.4a8342b1.chunk.js.map",
     "index.html": "/hold-my-beer/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/hold-my-beer/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.a6fe587a.chunk.js.LICENSE.txt": "/hold-my-beer/static/js/2.a6fe587a.chunk.js.LICENSE.txt"
+    "static/js/2.d45a724e.chunk.js.LICENSE.txt": "/hold-my-beer/static/js/2.d45a724e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6f946cfb.js",
-    "static/js/2.a6fe587a.chunk.js",
+    "static/js/2.d45a724e.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.89757d57.chunk.js"
+    "static/js/main.714f9cbf.chunk.js"
   ]
 }
